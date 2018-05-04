@@ -10,7 +10,7 @@ if(isset($_POST['ok']));
 	foreach($bill as $key=>$bill)
 	{
 		echo $key,"]"," ",$bill, "<br/>";
-    }	
+        }	
 
 }
 
